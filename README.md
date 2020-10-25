@@ -1,6 +1,6 @@
 # THE ADDRESS SEARCH BY CEP
 
-This mini project get a address in Brazil to the using a valid CPF.
+This mini project obtains the address in Brazil by informing a valid zip code.
 
 
 ## API'S USEDS
